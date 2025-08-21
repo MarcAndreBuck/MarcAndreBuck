@@ -13,6 +13,7 @@
   I code with
 </h2>
 
+<div style="display: flex; justify-content: space-between;">
 <div align="left" style="display:flex; align-items:center; gap:16px; flex-wrap:wrap; margin:0 0 24px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" alt="CSS logo" />
@@ -21,7 +22,8 @@
 
 <!-- Optional: Top languages card -->
 <div align="center" style="margin:0 0 24px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcAndreBuck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcAndreBuck&layout=compact&langs_count=5&theme=dracula" />
+</div>
 </div>
 
 <!-- About me -->
@@ -40,6 +42,7 @@
 <!-- Quick facts -->
 <p align="left" style="font-size:22px; line-height:1.8; margin:0 0 24px 0;">
   🛠️ Creating bugs since May 2025 <br>
+  🧙 Wizard in fixing things before they break  <br>
   📚 Currently learning: JavaScript, APIs &amp; responsive web apps <br>
   💬 Ask me about: problem-solving, clean code &amp; keeping machines and code running <br>
   🎯 My goals: grow into a full-stack developer &amp; ship real-world projects <br>
