@@ -13,18 +13,17 @@
   I code with
 </h2>
 
-<div style="display: flex; justify-content: space-between;">
 <div align="left" style="display:flex; align-items:center; gap:16px; flex-wrap:wrap; margin:0 0 24px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" alt="CSS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="HTML5 logo" />
 </div>
-
+ 
+  
 <!-- Optional: Top languages card -->
-<div align="center" style="margin:0 0 24px 0;">
+<div align="left" style="margin:0 0 24px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcAndreBuck&layout=compact&langs_count=5&theme=dracula" />
-</div>
-</div>
+
 
 <!-- About me -->
 <h2 align="left" style="font-size:32px; font-weight:600; margin:0 0 16px 0;">
