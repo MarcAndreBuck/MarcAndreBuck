@@ -77,7 +77,7 @@ Currently expanding my backend knowledge (Python, Django, REST APIs) to better u
 </h2>
 
 <p align="center" style="font-size:22px; line-height:1.6; margin:0 0 16px 0;">
-  ✉️ E-Mail: <a href="mailto:kontakt@marc-buck.dev">kontakt@marc-buck.dev</a>
+  ✉️ E-Mail: <a href="mailto:kontakt@marc-buck.de">kontakt@marc-buck.de</a>
 </p>
 
 <div align="center" style="display:flex; align-items:center; gap:16px; flex-wrap:wrap; margin:0 0 24px 0;">
